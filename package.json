@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/kraken22/hexwars/issues"
   },
-  "homepage": "https://github.com/kraken22/hexwars#readme"
+  "homepage": "https://github.com/kraken22/hexwars#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
 }
