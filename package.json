@@ -1,0 +1,20 @@
+{
+  "name": "hexwars",
+  "version": "1.0.0",
+  "description": "Territory based game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kraken22/hexwars.git"
+  },
+  "author": "Jordan Jantschulev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kraken22/hexwars/issues"
+  },
+  "homepage": "https://github.com/kraken22/hexwars#readme"
+}
